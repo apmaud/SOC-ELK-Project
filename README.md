@@ -15,6 +15,7 @@ An attacker system was introduced to generate realistic security events, allowin
 
 ### Tools Used
 - Elastic: SIEM and log ingestion
+- Logstash: Pipeline collecting telemetry from multiple sources
 - Kibana: Log visualization, dashboards, and alerting
 - osTicket: Incident tracking and case management
 - Kali Linux: Attacker simulation and threat generation
@@ -24,5 +25,7 @@ An attacker system was introduced to generate realistic security events, allowin
 
 ### 1. Created plan for overall structure of the project
 
-<img width="705" height="691" alt="Mini-SOC-Project drawio" src="https://github.com/user-attachments/assets/9af5a55e-1082-4149-af28-45c3339e2d4c" />
+<img width="705" height="801" alt="Mini-SOC-Project drawio" src="https://github.com/user-attachments/assets/8d4782c2-b80a-45c7-a14d-8c5b82760134" />
+
+
 
